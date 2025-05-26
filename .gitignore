@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# dotenv environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage from testing
+coverage/
+
+# Optional npm cache directory
+.npm
+
+# Build output (if using TS or Babel)
+dist/
+build/
